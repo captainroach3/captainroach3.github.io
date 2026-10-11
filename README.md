@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Dennis Tamang]
+# Hi there!  I'm Dennis Tamang
 
 I'm a **4th-year Computer Engineering student** at Cagayan State University – Carig Campus with a strong passion for **embedded systems**, hardware-software integration, and web development. I love building smart hardware projects—from autonomous robotics and PID control systems to interactive display projects—while also crafting clean backend APIs and modern web applications. Welcome to my GitHub portfolio! 🚀
 
