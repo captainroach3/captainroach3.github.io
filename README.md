@@ -1,42 +1,71 @@
-# Portfolio
+# Hi there! 👋 I'm [Dennis Tamang]
 
-This template should help get you started developing with Vue 3 in Vite.
+I'm a **4th-year Computer Engineering student** at Cagayan State University – Carig Campus with a strong passion for **embedded systems**, hardware-software integration, and web development. I love building smart hardware projects—from autonomous robotics and PID control systems to interactive display projects—while also crafting clean backend APIs and modern web applications. Welcome to my GitHub portfolio! 🚀
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 💻 Tech Stack & Skills
 
-## Recommended Browser Setup
+### **Programming Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) *(Learning)*
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+### **Hardware & Embedded Systems**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=Espressif&logoColor=white)
+![Control Systems](https://img.shields.io/badge/PID_Control-FF6F00?style=for-the-badge&logo=microchip&logoColor=white)
 
-## Type Support for `.vue` Imports in TS
+### **Web Development & Tools**
+![Django REST Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) *(Learning)*
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+---
 
-## Customize configuration
+## 🎓 Basic Information
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+| Attribute | Details |
+| :--- | :--- |
+| **🎓 Program** | BS Computer Engineering |
+| **🏫 School** | Cagayan State University – Carig Campus |
+| **📅 Year Level** | 4th Year |
+| **🎯 Focus Area** | Embedded Systems & Hardware Design |
 
-## Project Setup
+---
 
-```sh
-npm install
-```
+## 🛠️ Main Projects
 
-### Compile and Hot-Reload for Development
+### 🏎️ 1. [PID Line Follower Robot](#)
+An autonomous robot designed to precisely track line courses using sensor feedback and PID control algorithms.
+* **Key Components:** Arduino Nano, QTR-8A Reflectance Sensor Array, TB6612FNG Motor Driver, N20 Micro Gear Motors.
+* **Highlights:** Real-time PID parameter tuning, high-speed line tracking, smooth motor drive control.
 
-```sh
-npm run dev
-```
+### 🔬 2. [Laboratory Borrowing System](#)
+A robust backend system built for managing and tracking equipment borrowing within academic laboratories.
+* **Key Tech:** Django REST Framework, PostgreSQL.
+* **Highlights:** RESTful API architecture, role-based user management, database transactions for item tracking.
 
-### Type-Check, Compile and Minify for Production
+### 🧬 3. [Rotating DNA Helix Display](#)
+An interactive hardware project featuring a rotating 3D DNA helix illuminated with dynamic LED lighting.
+* **Key Tech:** Arduino, Stepper Motors, Addressable LED Strip Lights.
+* **Highlights:** Embedded motor control, LED animation synchronization, custom mechanical assembly.
 
-```sh
-npm run build
-```
+### 🎨 4. [Manga-Themed Portfolio Website](#)
+A creative, manga-inspired interactive portfolio site showcasing my projects, skills, and background.
+* **Key Tech:** Vue 3, TypeScript, Tailwind CSS.
+* **Highlights:** Responsive UI design, custom manga aesthetic, smooth animations.
+
+---
+
+## 📫 Connect with Me
+
+Feel free to reach out for collaborations, project inquiries, or just a friendly chat about embedded systems and tech!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennistamang78@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/captainroach3)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dennistamang)
+
+---
